@@ -10,12 +10,13 @@ This is the user documentation page for Cardinal, an open source project. Cardin
 custom Minecraft PVP matches. This documentation is based on Cardinal version 2.0, the predecessor of CardinalPGM_. You
 can view `this project on Github`_.
 
+
 .. _this project on Github: https://github.com/cardinaldevelopment/docs
 .. _CardinalPGM: https://github.com/twizmwazin/CardinalPGM
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents
 
    modules/index

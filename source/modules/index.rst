@@ -4,6 +4,13 @@ Modules
 **strong text**
 
 .. toctree::
-   :glob:
+   :maxdepth: 2
 
-   *
+   main_map
+   regions
+   filters
+   spawns
+   kits
+   gamemodes/index
+
+
