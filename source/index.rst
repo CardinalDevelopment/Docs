@@ -6,17 +6,20 @@
 Welcome to Cardinal's documentation!
 ====================================
 
-Contents:
+This is the user documentation page for Cardinal, an open source project. Cardinal is built around the task of running
+custom Minecraft PVP matches. This documentation is based on Cardinal version 2.0, the predecessor of CardinalPGM_. You
+can view `this project on Github`_.
+
+.. _this project on Github: https://github.com/cardinaldevelopment/docs
+.. _CardinalPGM: https://github.com/twizmwazin/CardinalPGM
+
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contents
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   modules/index
+   reference/index
+   guides/index
+   examples/index
+   usage/index
