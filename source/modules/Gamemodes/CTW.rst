@@ -28,7 +28,7 @@ Wool attributes
 +------------------------------+---------------------------------------------------------------------------+------------------+---------------+
 | monument                     | The wool monument - where you must place the wool.                        | Region_          | REQUIRED      |
 +------------------------------+---------------------------------------------------------------------------+------------------+---------------+
-| requierd                     | Whether the wool is required in order to win and end the match.           | Boolean          | True          |
+| required                     | Whether the wool is required in order to win and end the match.           | Boolean          | True          |
 +------------------------------+---------------------------------------------------------------------------+------------------+---------------+
 | show                         | If false, the objective will be completely hidden.                        | Boolean          | True          |
 +------------------------------+---------------------------------------------------------------------------+------------------+---------------+
